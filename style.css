@@ -363,16 +363,13 @@ img {
 }
 .banglatitle{
     margin-left: 300px;
-
 }
-
 .figmawebpage{
-    margin-left: 290PX;
-    
+    margin-left: 290PX; 
 }
 .figmawebpage a:hover{
-background: green;
-transition: 0.4;
+    background: green;
+    transition: 0.4;
 }
 /* ===== CONTACT =====*/
 .contact__input {
