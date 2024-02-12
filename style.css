@@ -361,7 +361,19 @@ img {
 .work__img img:hover {
     transform: scale(1.1);
 }
+.banglatitle{
+    margin-left: 300px;
 
+}
+
+.figmawebpage{
+    margin-left: 290PX;
+    
+}
+.figmawebpage a:hover{
+background: green;
+transition: 0.4;
+}
 /* ===== CONTACT =====*/
 .contact__input {
     width: 100%;
